@@ -60,6 +60,11 @@ h2 {
     font-size: 15px;
 }
 
+.last {
+    display: grid;
+    grid-template-columns: repeat(2,2);
+}
+
 .media {
     padding-top: 50px;
 }
