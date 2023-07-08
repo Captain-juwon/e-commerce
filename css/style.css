@@ -29,6 +29,8 @@ h1 {
 
 .first {
     margin-top: 100px;
+    display: flex;
+    justify-content: center;
 }
 .last {
     margin-top: 100px;
@@ -58,11 +60,6 @@ h2 {
 
 .small {
     font-size: 15px;
-}
-
-.last {
-    display: grid;
-    grid-template-columns: repeat(2,2);
 }
 
 .media {
